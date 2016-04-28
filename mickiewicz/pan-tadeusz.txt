@@ -10818,6 +10818,7 @@ Chwalił piękności, a błędom wybaczył.
 
     I zazdrościła młodzież wieszczów sławie,
 Która tam dotąd brzmi w lasach i w polu,
+ble
 I którym droższy niż laur Kapitolu,
 Wianek rękami wieśniaczki usnuty
 Z modrych bławatków i zielonej ruty…
@@ -10836,5 +10837,7 @@ Ten utwór nie jest objęty majątkowym prawem autorskim i znajduje się w domen
 Tekst opracowany na podstawie: Adam Mickiewicz, Pisma Adama Mickiewicza, Wydanie zupełne, Tom V, Paryż 1860
 
 Publikacja zrealizowana w ramach projektu Wolne Lektury (http://wolnelektury.pl). Reprodukcja cyfrowa wykonana przez Bibliotekę Narodową z egzemplarza pochodzącego ze zbiorów BN.
+and here as well
 
 Opracowanie redakcyjne i przypisy: Maria Bailey, Anna Dyja, Marta Niedziałkowska, Agnieszka Paul, Magdalena Paul, Aleksandra Sekuła, Weronika Trzeciak.
+derenio was here
